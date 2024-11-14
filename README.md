@@ -1,2 +1,2 @@
-# index_css1.
+# CSS1.html
 table of colours
